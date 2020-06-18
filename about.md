@@ -1,5 +1,5 @@
 ---
 title: about
-image: pic03.jpg
+image: about.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+I am interested in international agriculture and rural development with a focus on breeding for improved nutritional quality. Specifically, I want to empower resource-limited plant breeding programs through the development and deployment of appropriate and user-friendly tools for data capture, storage, and reproducible analyses. 
