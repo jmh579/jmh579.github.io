@@ -6,12 +6,12 @@ description:     <b>PhD candidate</b> at Cornell University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jmh579.github.io" # the base hostname & protocol for your site
 author: Jenna M. Hershberger
-#street_address: 1234 Somewhere Road
-#city: Nashville
-#state: TN
-#zip_code: 55555
-#country: United States of America
-#phone: (716) 555-5555
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
 
 icon: fa-diamond # Font Awesome class for your site's icon
 
