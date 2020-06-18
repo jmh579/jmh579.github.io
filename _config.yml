@@ -1,7 +1,7 @@
 # Site settings
 title: Jenna M. Hershberger
 email: jmh579@cornell.edu
-description: <b>USDA NIFA AFRI EWD Predoctoral Fellow</b><b>PhD candidate</b> at Cornell University<br>Graduating <b>Spring 2021</b>
+description: <b>USDA NIFA AFRI EWD Predoctoral Fellow</b><br><b>PhD candidate</b> at Cornell University<br>Graduating <b>Spring 2021</b>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jmh579.github.io" # the base hostname & protocol for your site
 author: Jenna M. Hershberger
@@ -31,3 +31,5 @@ markdown: kramdown
 
 sass:
 style: compressed
+
+future: true
