@@ -1,7 +1,7 @@
 # Site settings
 title: Jenna M. Hershberger
 email: jmh579@cornell.edu
-description: <b>USDA NIFA AFRI EWD Predoctoral Fellow</b><br><b>PhD candidate</b> at Cornell University<br>Graduating <b>Spring 2021</b>
+description:  <b>USDA NIFA AFRI EWD Predoctoral Fellow</b><br>Plant Breeding &#38; Genetics<br><b>PhD candidate</b> at Cornell University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jmh579.github.io" # the base hostname & protocol for your site
 author: Jenna M. Hershberger
@@ -12,14 +12,14 @@ zip_code: 14850
 country: United States of America
 phone: (555) 555-5555
 
-icon: fa-seedling # Font Awesome class for your site's icon
+icon: fa-sun-o #fa-leaf # fa-dna #seedling= \f4d8 # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
 github_url: https://github.com/jmh579
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/jenna-hershberger
 pinterest_url:
 slack_url:
