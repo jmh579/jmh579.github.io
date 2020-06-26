@@ -29,7 +29,7 @@ I am interested in international agriculture and rural development with a focus 
 <section>
 <div class="row">
   <div class="column">
-    <img src="/assets/images/liquidN.JPG" alt="Liquid N" style="width:100%">
+    <img src="/assets/images/liquidN.jpg" alt="Liquid N" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/images/peeking_landscape.jpg" alt="Peeking through corn" style="width:100%">
