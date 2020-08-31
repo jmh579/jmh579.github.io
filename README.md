@@ -1,14 +1,16 @@
-# Dimension - Jekyll Theme
+
+
+# Credits
+
+## Dimension - Jekyll Theme
 
 A Jekyll version of the "Dimension" theme by [HTML5 UP](https://html5up.net/).
 
 Jekyll integration by [Andrew Banchich](https://github.com/andrewbanchich/dimension-jekyll-theme).
 
-Background image by [Henry Perks on Unsplash](https://unsplash.com/photos/4wWYxzM5bqw)
+Background image by [Henry Perks on Unsplash](https://unsplash.com/photos/aOTBPSDjgj0)
 
-# Credits
-
-Original README from HTML5 UP:
+## Original README from HTML5 UP:
 
 ```
 Dimension by HTML5 UP
