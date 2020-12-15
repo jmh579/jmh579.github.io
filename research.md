@@ -40,7 +40,7 @@ I am interested in international agriculture and rural development with a focus 
 </div>
 
 	<h3 class="major">Sweet corn nutritional quality</h3>
-	<p>In 2019, I was awarded a USDA NIFA AFRI EWD Predoctoral fellowship titled <i>Integrating transcriptomics for the improvement of genetic dissection and prediction of provitamin A and vitamin E in fresh sweet corn kernels</i>. Last summer, I grew out a panel of diverse sweet corn inbred lines and harvested fresh kernels for RNA-seq. RNA has been extracted and I hope to analyze the sequences this fall and use them to study the control of carotenoid and tocochromanol traits through TWAS and transcriptome prediction.</p>
+	<p>In 2019, I was awarded a USDA NIFA AFRI EWD Predoctoral fellowship titled <i>Integrating transcriptomics for the improvement of genetic dissection and prediction of provitamin A and vitamin E in fresh sweet corn kernels</i>. Last summer, I grew out a panel of diverse sweet corn inbred lines and harvested fresh kernels for RNA-seq. RNA has been extracted and we're now analyzing the sequences to study the control of carotenoid and tocochromanol traits through TWAS and transcriptome prediction.</p>
 </section>
 
 <hr />
