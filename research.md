@@ -59,13 +59,7 @@ I am interested in international agriculture and rural development with a focus 
 </div>
 
 	<h3 class="major">Carrot breeding and genetics</h3>
-	<p>During my time in the <a href="https://vcru.wisc.edu/simon/">Simon Lab</a> at UW-Madison, I worked on the first iteration of the USDA NIFA OREI <a href="https://eorganic.info/carrotimprovement/about"><i>Carrot Improvement for Organic Agriculture</i></a> project. I was involved in every stage of the carrot breeding program, from planting and cage building for fly pollination to DNA extraction, HPLC prep, and tissue culture, and loved every part of it. It's safe to say that my experience with the carrot group inspired me to pursue a graduate education in plant breeding and genetics. My family likes to joke that the true start of my career was my (single line) speaking part in a BigTen Network special on breeding carrots for color and flavor. Watch the video below and judge for yourself! &#8681;
+	<p>During my time in the <a href="https://vcru.wisc.edu/simon/">Simon Lab</a> at UW-Madison, I worked on the first iteration of the USDA NIFA OREI <a href="https://eorganic.info/carrotimprovement/about"><i>Carrot Improvement for Organic Agriculture</i></a> project. I was involved in every stage of the carrot breeding program, from planting and cage building for fly pollination to DNA extraction, HPLC prep, and tissue culture, and loved every part of it. It's safe to say that my experience with the carrot group inspired me to pursue a graduate education in plant breeding and genetics. My family likes to joke that the true start of my career was my (single line) speaking part in a BigTen Network special on breeding carrots for color and flavor. Watch the video <a href="https://www.youtube.com/embed/ZV2F4HjT8qM"><i>here</i></a> and judge for yourself! &#8681;
   </p>
-
-  <ul style="center">
-    <center><iframe width="840" height="500" src="https://www.youtube.com/embed/ZV2F4HjT8qM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-    </center>
-  </ul>
 
 </section>
